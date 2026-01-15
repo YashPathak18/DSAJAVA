@@ -1,4 +1,4 @@
-class Solution {
+public class Secondlargest {
     public static void main(String[] args) {
 
         public int secondLargest ( int[] nums){
