@@ -19,7 +19,7 @@ public class BinarySearch {
     }
     public static void main(String[] args) {
         int num[]={2,4,6,8,12,45};
-        int key=1;
+        int key=12;
 
         System.out.println("Key is at index: "+binarysearch(num,key));
     }
