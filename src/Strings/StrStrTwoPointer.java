@@ -2,7 +2,7 @@ package Strings;
 
 public class StrStrTwoPointer {
 
-    public static int strStr(String haystack, String needle) {
+    public static int strSt(String haystack, String needle) {
 
         if (needle.length() == 0)
             return 0;
