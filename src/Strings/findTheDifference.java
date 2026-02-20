@@ -2,7 +2,7 @@ package Strings;
 
 public class findTheDifference {
 
-    public static char findTheDifference(String s, String t) {
+    public static char findTheDiference(String s, String t) {
 
         int[] count = new int[26];
 
